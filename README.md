@@ -1,5 +1,5 @@
 ###Javascript workshop: poker
-[![Build Status](https://travis-ci.org/Ahineya/js-workshop-poker-boilerplate.svg?branch=master)](https://travis-ci.org/Ahineya/js-workshop-poker-boilerplate)
+[![Build Status](https://travis-ci.org/Ahineya/jvp-test.svg?branch=master)](https://travis-ci.org/Ahineya/jwp-test)
 #####Development
 
 ######Initial setup
