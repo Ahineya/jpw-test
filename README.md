@@ -1,5 +1,5 @@
 ###Javascript workshop: poker
-[![Build Status](https://travis-ci.org/Ahineya/jvp-test.svg?branch=master)](https://travis-ci.org/Ahineya/jwp-test)
+[![Build Status](https://travis-ci.org/Ahineya/jpw-test.svg?branch=master)](https://travis-ci.org/Ahineya/jpw-test)
 #####Development
 
 ######Initial setup
